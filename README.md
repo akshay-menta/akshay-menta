@@ -39,14 +39,14 @@ I am an **AI enthusiast** blending data, models, and human insight to build smar
 ## 🚀 Featured Projects
 
 ### **WhisperSense: Semantic-Aware Audio Captioning**
-* [cite_start]**Tech:** Python, Whisper, ConvNeXt, CLAP, FENSE, PyTorch [cite: 78]
+* **Tech:** Python, Whisper, ConvNeXt, CLAP, FENSE, PyTorch 
 * Engineered a confidence-calibrated pipeline fusing Whisper and ConvNeXt.
-* [cite_start]Utilized similarity-driven decoding to boost **CLAP score by 18%** and reduce calibration error (ECE) by 22%[cite: 80].
+* Utilized similarity-driven decoding to boost **CLAP score by 18%** and reduce calibration error (ECE) by 22%.
 
 ### **AutoQuest: Automated Q&A Generation (RAG)**
-* [cite_start]**Tech:** Python, T5-Small, FAISS, FastAPI, Docker, Kubernetes [cite: 82]
+* **Tech:** Python, T5-Small, FAISS, FastAPI, Docker, Kubernetes 
 * Deployed a scalable Q&A microservice achieving **<800ms latency** on 50k+ chunks.
-* [cite_start]Orchestrated containerized inference using Docker and Kubernetes[cite: 84].
+* Orchestrated containerized inference using Docker and Kubernetes.
 
 ## 📚 Research Publications
 
