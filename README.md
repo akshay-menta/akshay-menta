@@ -15,11 +15,20 @@ I build **scalable AI systems** using **LLMs, Agentic AI, and RAG pipelines**, w
 - Distributed training and inference optimization  
 
 **Tech**
-Python · PyTorch · LangChain · FAISS · vLLM · Docker · Kubernetes · AWS
+Python · PyTorch · LLMs · Agentic AI · LangChain · RAG · FAISS · vLLM · Docker · Kubernetes · AWS
 
-🔗 [LinkedIn](https://www.linkedin.com/in/akshay-menta/)  
-🌐 [Portfolio](https://akshay-menta.github.io/)  
-📫 akshaymenta24@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/akshay-menta/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0077B5&vCenter=true&width=130&height=35&lines=LinkedIn" />
+  </a>
+  <a href="https://akshay-menta.github.io/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=ff5e5b&vCenter=true&width=140&height=35&lines=Portfolio" />
+  </a>
+  <a href="mailto:akshaymenta24@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D14836&vCenter=true&width=110&height=35&lines=Email" />
+  </a>
+</p>
+
 
 
 ### ✍️ Random Dev Quote
